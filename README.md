@@ -10,11 +10,11 @@ Explorando os Recursos de IA Generativa com Copilot e OpenAI.
 ### Como utilizar?
 Podemos fazer solicitações ao Copilot usando linguagem natural, como por exemplo, na imagem abaixo foi silicitada a geração de um código de calculadora em Java:
 
-![solicitado1](https://github.com/Hisly-A/DIO_IA_Generativa/assets/inputs/inputcopilot%2001.PNG)
+![solicitado1](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/inputs/inputcopilot%2001.PNG)
 
 Como resultado, o Copilot retornou o seguinte código:
 
-![retorno1](https://github.com/Hisly-A/DIO_IA_Generativa/assets/outputs/outputcopilot%2001.PNG)
+![retorno1](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2001.PNG)
 
 ```
 import java.util.Scanner;
@@ -70,16 +70,16 @@ public class Calculadora {
 ```
 E retornou também algumas recomendações:
 
-![retorno2](https://github.com/Hisly-A/DIO_IA_Generativa/assets/outputs/outputcopilot%2002.PNG)
+![retorno2](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2002.PNG)
 
 Também é possível solicitar a geração de imagens, como no exemplo abaixo:
 
-![solicitado2](https://github.com/Hisly-A/DIO_IA_Generativa/assets/inputs/inputcopilot%2002.PNG)
+![solicitado2](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/inputs/inputcopilot%2002.PNG)
 
 Para essa solicitação ele retornou as seguintes imagens:
 
-![retorno3](https://github.com/Hisly-A/DIO_IA_Generativa/assets/outputs/outputcopilot%2003.PNG)
+![retorno3](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2003.PNG)
 
-![retorno4](https://github.com/Hisly-A/DIO_IA_Generativa/assets/outputs/outputcopilot%2004.jpg)
+![retorno4](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2004.jpg)
 
-![retorno5](https://github.com/Hisly-A/DIO_IA_Generativa/assets/outputs/outputcopilot%2005.jpg)
+![retorno5](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2005.jpg)
