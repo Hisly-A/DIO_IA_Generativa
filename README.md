@@ -68,7 +68,7 @@ public class Calculadora {
     }
 }
 ```
-E retornou também algumas recomendações:
+E retornou também algumas explicações e recomendações:
 
 ![retorno2](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2002.PNG)
 
@@ -83,3 +83,11 @@ Para essa solicitação ele retornou as seguintes imagens:
 ![retorno4](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2004.jpg)
 
 ![retorno5](https://github.com/Hisly-A/DIO_IA_Generativa/blob/main/outputs/outputcopilot%2005.jpg)
+
+## Azure OpenAI
+### O que é?
+>O Azure OpenAI Service traz os modelos generativos de IA desenvolvidos pela OpenAI para a plataforma Azure, permitindo-lhe desenvolver soluções poderosas de IA que se beneficiam da segurança, escalabilidade e integração de serviços fornecidos pela plataforma de nuvem Azure.
+
+<sub>Fonte: <https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html></sub>
+
+Porém, para utilizar o Azure OpenAI, não é permitido informar um e-mail pessoal no cadastro para solicitação de acesso ao serviço (<https://aka.ms/oaiapply>).
